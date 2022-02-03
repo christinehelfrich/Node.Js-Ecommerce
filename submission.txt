@@ -1,0 +1,6 @@
+Github: https://github.com/christinehelfrich/week4CSE431.git
+
+nodemailkey: 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
+
+mongodb: mongodb+srv://christine:Trntdyrl4@cse341.jgste.mongodb.net/test
+password: Trntdyrl4
